@@ -1,3 +1,6 @@
+Attaccante: 192.168.200.100
+Destinatario: 192.168.200.150
+
 Consigli per ridurre gli impatti dell'attacco:
 
 -Isolare eventuali dispositivi compromessi o interrompere le connessioni sospette per limitare la propagazione dell'attacco.
